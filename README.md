@@ -13,4 +13,4 @@
 * PostgreSQL
 * asyncio
 * Aiogram
-* AiHttp
+* AioHttp

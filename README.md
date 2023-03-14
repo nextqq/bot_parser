@@ -14,3 +14,4 @@
 * asyncio
 * Aiogram
 * AioHttp
+* Sqlalchemy
